@@ -1,0 +1,4110 @@
+# depslib dependency file v1.0
+1544710129 source:c:\users\totoy\downloads\rodolfo\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\begin_code.h
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\close_code.h
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\downloads\rodolfo\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1544710575 c:\users\totoy\downloads\rodolfo\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544710575 c:\users\totoy\downloads\rodolfo\santa.h
+	"Character.h"
+	"Reno.h"
+
+1544710575 c:\users\totoy\downloads\rodolfo\character.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1544710575 c:\users\totoy\downloads\rodolfo\reno.h
+	<iostream>
+	"Character.h"
+	"Santa.h"
+
+1544710122 c:\users\totoy\downloads\rodolfo\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Songs.h"
+	"Reno.h"
+	"Records.h"
+	"Premio.h"
+
+1544710575 c:\users\totoy\downloads\rodolfo\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544053888 source:c:\users\totoy\downloads\rodolfo\boton.cpp
+	"Texturas.h"
+	"Boton.h"
+
+1543440148 c:\users\totoy\downloads\rodolfo\texturas.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<iostream>
+
+1544053888 c:\users\totoy\downloads\rodolfo\boton.h
+	"Texturas.h"
+	<SDL2/SDL_mixer.h>
+	<iostream>
+
+1544132656 source:c:\users\totoy\downloads\rodolfo\texturas.cpp
+	"Texturas.h"
+	<string>
+
+1544710133 c:\users\totoy\downloads\rodolfo\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1544117885 source:c:\users\totoy\downloads\rodolfo\boton polimorfico.cpp
+	"Boton polimorfico.h"
+
+1544059216 c:\users\totoy\downloads\rodolfo\boton polimorfico.h
+	"Texturas.h"
+	<SDL2/SDL_mixer.h>
+
+1544132613 source:c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\boton polimorfico.cpp
+
+1544132613 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\boton polimorfico.h
+
+1544132654 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\texturas.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<iostream>
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\begin_code.h
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\close_code.h
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1544132117 source:c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\boton.cpp
+
+1544132146 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\boton.h
+
+1544387062 source:c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Game.h"
+	"Songs.h"
+	"Boton.h"
+	"Menu.h"
+
+1544134169 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544134128 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\santa.h
+	"Character.h"
+	"Reno.h"
+
+1544131909 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\character.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1544136939 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\reno.h
+	<iostream>
+	"Character.h"
+	"Santa.h"
+
+1544388912 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Songs.h"
+	"Reno.h"
+
+1544128709 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544388134 c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\menu.h
+	"Songs.h"
+	"Boton polimorfico.h"
+	"Game.h"
+
+1544132654 source:c:\users\daniel\documents\programacion 2\proyecto final\version2\rodolfo\texturas.cpp
+	"Texturas.h"
+	<string>
+
+1544132613 source:c:\users\totoy\onedrive\escritorio\rodolfo\boton polimorfico.cpp
+
+1544132117 source:c:\users\totoy\onedrive\escritorio\rodolfo\boton.cpp
+
+1544387062 source:c:\users\totoy\onedrive\escritorio\rodolfo\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Game.h"
+	"Songs.h"
+	"Boton.h"
+	"Menu.h"
+
+1544134169 c:\users\totoy\onedrive\escritorio\rodolfo\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\begin_code.h
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\close_code.h
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528984068 c:\users\totoy\onedrive\escritorio\rodolfo\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1544134128 c:\users\totoy\onedrive\escritorio\rodolfo\santa.h
+	"Character.h"
+	"Reno.h"
+
+1544131909 c:\users\totoy\onedrive\escritorio\rodolfo\character.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1544136939 c:\users\totoy\onedrive\escritorio\rodolfo\reno.h
+	<iostream>
+	"Character.h"
+	"Santa.h"
+
+1544410176 c:\users\totoy\onedrive\escritorio\rodolfo\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Songs.h"
+	"Reno.h"
+	"Records.h"
+
+1544128709 c:\users\totoy\onedrive\escritorio\rodolfo\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544132146 c:\users\totoy\onedrive\escritorio\rodolfo\boton.h
+
+1544409880 c:\users\totoy\onedrive\escritorio\rodolfo\menu.h
+	"Songs.h"
+	"Boton polimorfico.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1544132613 c:\users\totoy\onedrive\escritorio\rodolfo\boton polimorfico.h
+
+1544132654 source:c:\users\totoy\onedrive\escritorio\rodolfo\texturas.cpp
+	"Texturas.h"
+	<string>
+
+1544132654 c:\users\totoy\onedrive\escritorio\rodolfo\texturas.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<iostream>
+
+1544400081 c:\users\totoy\onedrive\escritorio\rodolfo\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544409880 source:c:\users\totoy\onedrive\escritorio\rodolfo\records.cpp
+	"Records.h"
+
+1544409880 c:\users\totoy\onedrive\escritorio\rodolfo\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544406845 c:\users\totoy\onedrive\escritorio\rodolfo\instrucciones.h
+	"Menu.h"
+
+1544132614 source:c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\boton polimorfico.cpp
+
+1544132118 source:c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\boton.cpp
+
+1544387064 source:c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Game.h"
+	"Songs.h"
+	"Boton.h"
+	"Menu.h"
+
+1544589997 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\begin_code.h
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\close_code.h
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1544589996 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\santa.h
+	"Character.h"
+	"Reno.h"
+
+1544588639 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\character.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1544589998 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\reno.h
+	<iostream>
+	"Character.h"
+	"Santa.h"
+
+1544589997 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Songs.h"
+	"Reno.h"
+	"Records.h"
+	"Premio.h"
+
+1544589996 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544589995 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544132148 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\boton.h
+
+1544589998 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\menu.h
+	"Songs.h"
+	"Boton polimorfico.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1544132614 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\boton polimorfico.h
+
+1544589998 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544589997 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\instrucciones.h
+	"Menu.h"
+
+1544590103 source:c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\records.cpp
+	"Records.h"
+
+1544132656 source:c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\texturas.cpp
+	"Texturas.h"
+	<string>
+
+1544132656 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\texturas.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<iostream>
+
+1544589995 c:\users\daniel\documents\programacion 2\proyecto final\version3\rodolfo\premio.h
+
+1544710122 c:\users\totoy\downloads\rodolfo\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544589995 c:\users\totoy\downloads\rodolfo\premio.h
+
+1544710122 c:\users\totoy\downloads\rodolfo\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544710122 c:\users\totoy\downloads\rodolfo\instrucciones.h
+	"Menu.h"
+
+1544710122 source:c:\users\totoy\downloads\rodolfo\records.cpp
+	"Records.h"
+
+1544710129 source:c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1544710575 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\begin_code.h
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\close_code.h
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528980468 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1544710575 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\santa.h
+	"Character.h"
+	"Reno.h"
+
+1544710575 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\character.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<string>
+
+1544710575 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\reno.h
+	<iostream>
+	"Character.h"
+	"Santa.h"
+
+1544710122 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Santa.h"
+	"Songs.h"
+	"Reno.h"
+	"Records.h"
+	"Premio.h"
+
+1544710575 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544710122 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544589995 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\premio.h
+
+1544710133 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1544710122 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544710122 c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\instrucciones.h
+	"Menu.h"
+
+1544710122 source:c:\users\totoy\onedrive\documentos\omar\3 semestre\programacion 2\proyecto final\noel escapes\records.cpp
+	"Records.h"
+
+1545081345 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1545056500 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\begin_code.h
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\close_code.h
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528976868 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1545092692 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	<list>
+	"Songs.h"
+	"Records.h"
+	"math.h"
+	"Grafo.h"
+	"Bubbles.h"
+
+1545081183 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544710124 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1544589996 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\premio.h
+
+1545092803 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1545057113 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1545057113 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\instrucciones.h
+	"Menu.h"
+
+1544710124 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\records.cpp
+	"Records.h"
+
+1545029821 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\grafo.cpp
+	"Grafo.h"
+	<iostream>
+
+1545029822 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\grafo.h
+	<queue>
+	<list>
+	<time.h>
+	<stdlib.h>
+
+1545086309 c:\users\daniel\documents\estructuras de datos\proyecto_final\version3\bubble\bubbles.h
+
+1545081346 source:c:\users\totoy\downloads\bubble\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1545171754 c:\users\totoy\downloads\bubble\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\begin_code.h
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\close_code.h
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\totoy\downloads\bubble\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1545159050 c:\users\totoy\downloads\bubble\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	<list>
+	"Songs.h"
+	"Records.h"
+	"math.h"
+	"Grafo.h"
+	"Bubbles.h"
+
+1545081184 c:\users\totoy\downloads\bubble\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1545097586 c:\users\totoy\downloads\bubble\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1545029824 c:\users\totoy\downloads\bubble\grafo.h
+	<queue>
+	<list>
+	<time.h>
+	<stdlib.h>
+
+1545086310 c:\users\totoy\downloads\bubble\bubbles.h
+
+1545176984 c:\users\totoy\downloads\bubble\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1545176513 c:\users\totoy\downloads\bubble\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1545176513 c:\users\totoy\downloads\bubble\instrucciones.h
+	"Menu.h"
+
+1545097586 source:c:\users\totoy\downloads\bubble\records.cpp
+	"Records.h"
+
+1545029822 source:c:\users\totoy\downloads\bubble\grafo.cpp
+	"Grafo.h"
+	<iostream>
+
+1545029822 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\grafo.cpp
+	"Grafo.h"
+	<iostream>
+
+1545029824 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\grafo.h
+	<queue>
+	<list>
+	<time.h>
+	<stdlib.h>
+
+1545081346 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1545171754 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\begin_code.h
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\close_code.h
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1545159050 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	<list>
+	"Songs.h"
+	"Records.h"
+	"math.h"
+	"Grafo.h"
+	"Bubbles.h"
+
+1545081184 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1545097586 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1545086310 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\bubbles.h
+
+1545176984 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1545176513 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1545176513 c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\instrucciones.h
+	"Menu.h"
+
+1545097586 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\version5\bubble\records.cpp
+	"Records.h"
+
+1545198703 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\grafo.cpp
+	"Grafo.h"
+	<iostream>
+
+1545033424 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\grafo.h
+	<queue>
+	<list>
+	<time.h>
+	<stdlib.h>
+
+1545199027 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\main.cpp
+	"Texture.h"
+	<iostream>
+	<string>
+	<string.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	"Game.h"
+	"Songs.h"
+	"Menu.h"
+
+1545198846 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\texture.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\begin_code.h
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\close_code.h
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1528973268 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1545199106 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\game.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<algorithm>
+	<queue>
+	<fstream>
+	<list>
+	"Songs.h"
+	"Records.h"
+	"math.h"
+	"Grafo.h"
+	"Bubbles.h"
+
+1545198846 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\songs.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_main.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1545101186 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\records.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1545089910 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\bubbles.h
+
+1545198846 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\menu.h
+	"Songs.h"
+	"Game.h"
+	"Pantalla_Records.h"
+	"Instrucciones.h"
+
+1545198703 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\pantalla_records.h
+	"Menu.h"
+	"Records.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1545198846 c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\instrucciones.h
+	"Menu.h"
+
+1545198703 source:c:\users\daniel\documents\estructuras de datos\proyecto_final\bubbleshooter\bubble\records.cpp
+	"Records.h"
+
